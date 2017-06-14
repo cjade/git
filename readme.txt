@@ -8,3 +8,4 @@ add merge --no-ff
 stash
 qwer
 dajdja
+dev ++
