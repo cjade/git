@@ -6,3 +6,4 @@ Git tracks changes of files.
 Creating a new branch is quick & simple .
 add merge --no-ff
 stash
+qwer
